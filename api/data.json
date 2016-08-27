@@ -1,5 +1,5 @@
 [{
-  "framework": "Spring Boot",
+  "name": "Spring Boot",
   "language": "Java",
   "layer": "Backend",
   "version": "1.4.0",
@@ -9,7 +9,7 @@
   "cons": ""
 },
 {
-  "framework": "Aurelia",
+  "name": "Aurelia",
   "language": "Javascript",
   "version": "",
   "layer": "Frontend",
@@ -19,7 +19,7 @@
   "cons": ""
 },
 {
-  "framework": "Vue.js",
+  "name": "Vue.js",
   "language": "Javascript",
   "version": "1.0.26",
   "layer": "Frontend",
@@ -29,7 +29,7 @@
   "cons": ""
 },
 {
-  "framework": "React",
+  "name": "React",
   "language": "Javascript",
   "version": "15.3.1",
   "layer": "Frontend",
@@ -39,7 +39,7 @@
   "cons": ""
 },
 {
-  "framework": "Node.js",
+  "name": "Node.js",
   "language": "Javascript",
   "version": "6.4.0",
   "layer": "Backend",
@@ -49,7 +49,7 @@
   "cons": ""
 },
 {
-  "framework": "Meteor",
+  "name": "Meteor",
   "language": "Javascript",
   "version": "1.4",
   "layer": "Backend",
@@ -59,9 +59,9 @@
   "cons": ""
 },
 {
-  "framework": "Angular.js 2",
+  "name": "Angular.js 2",
   "language": "Javascript",
-  "version": "1.0.0",
+  "version": "Release Candidate",
   "layer": "Frontend",
   "description": "",
   "url": "https://angular.io/",
@@ -69,7 +69,7 @@
   "cons": ""
 },
 {
-  "framework": "Angular.js",
+  "name": "Angular.js",
   "language": "Javascript",
   "version": "1.5.8",
   "layer": "Frontend",
@@ -79,7 +79,7 @@
   "cons": ""
 },
 {
-  "framework": "Spring Data JPA",
+  "name": "Spring Data JPA",
   "language": "Java",
   "version": "1.10.2",
   "layer": "Backend",
@@ -89,7 +89,7 @@
   "cons": ""
 },
 {
-  "framework": "JHipster",
+  "name": "JHipster",
   "language": "Java & Javascript",
   "version": "",
   "layer": "Frontend & Backend",
@@ -99,7 +99,7 @@
   "cons": ""
 },
 {
-  "framework": "MeanJS",
+  "name": "MeanJS",
   "language": "Javascript",
   "version": "",
   "layer": "Frontend & Backend",
@@ -109,7 +109,7 @@
   "cons": ""
 },
 {
-  "framework": "Dojo",
+  "name": "Dojo",
   "language": "Javascript",
   "version": "1.11",
   "layer": "Frontend",
@@ -119,7 +119,7 @@
   "cons": ""
 },
 {
-  "framework": "Ember",
+  "name": "Ember",
   "language": "Javascript",
   "version": "1.3 ",
   "layer": "Frontend",
@@ -129,7 +129,7 @@
   "cons": ""
 },
 {
-  "framework": "Backbone.js",
+  "name": "Backbone.js",
   "language": "Javascript",
   "version": "1.3.3",
   "layer": "Frontend & Backend",
@@ -137,6 +137,15 @@
   "url": "http://backbonejs.org/",
   "pros": "",
   "cons": ""
+},
+{
+  "name": "Polymer",
+  "language": "Javascript",
+  "version": "",
+  "layer": "Frontend & Backend",
+  "description": "The Polymer Project helps you deliver amazing user experiences by unlocking the full potential of the web platform.",
+  "url": "https://www.polymer-project.org/",
+  "pros": "",
+  "cons": ""
 }
-
 ]
