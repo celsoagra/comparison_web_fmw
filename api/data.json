@@ -6,5 +6,60 @@
   "url": "http://projects.spring.io/spring-boot/",
   "pros": "Create stand-alone Spring applications\nEmbed Tomcat, Jetty or Undertow directly (no need to deploy WAR files)\nProvide opinionated 'starter' POMs to simplify your Maven configuration\nAutomatically configure Spring whenever possible\nProvide production-ready features such as metrics, health checks and externalized configuration\nAbsolutely no code generation and no requirement for XML configuration",
   "cons": ""
+},
+{
+  "framework": "Vue.js",
+  "language": "",
+  "version": "",
+  "description": "",
+  "url": "",
+  "pros": "",
+  "cons": ""
+},
+{
+  "framework": "React",
+  "language": "",
+  "version": "",
+  "description": "",
+  "url": "",
+  "pros": "",
+  "cons": ""
+},
+{
+  "framework": "Node.js",
+  "language": "",
+  "version": "",
+  "description": "",
+  "url": "",
+  "pros": "",
+  "cons": ""
+},
+{
+  "framework": "Meteor",
+  "language": "",
+  "version": "",
+  "description": "",
+  "url": "",
+  "pros": "",
+  "cons": ""
+},
+{
+  "framework": "Angular2",
+  "language": "",
+  "version": "",
+  "description": "",
+  "url": "",
+  "pros": "",
+  "cons": ""
+},
+{
+  "framework": "Angular",
+  "language": "",
+  "version": "",
+  "description": "",
+  "url": "",
+  "pros": "",
+  "cons": ""
 }
+
 ]
